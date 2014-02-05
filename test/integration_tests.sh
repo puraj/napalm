@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# I am HE MAN
 setUp() {
   NAPALM='../bin/napalm'
 
